@@ -1,0 +1,29 @@
+.header{
+    font-size:44px;
+    line-height:55px;
+    color:#121212;
+    font-weight:600;
+    text-align: center;
+}
+.bg_cover{
+background-position:center center;
+background-image: url(assets/images/header-bg.jpg);
+background-size:cover;
+background-repeat:no-repeat;
+width:100%;
+height:100%;
+
+}
+.text{
+    font-size:25px;
+    line-height:24px;
+    color:#6c6c6c;
+    margin-top:24px;
+    text-align: center;
+}
+
+    .title
+    {font-size:50px;
+        font-weight:600;
+        line-height:55px;
+        color:#121212;}
